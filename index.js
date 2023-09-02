@@ -17,6 +17,7 @@ app.set("template engine", "ejs");
 
 // routes
 app.use("/", home);
+////////////
 
 
 app.listen(3030);
